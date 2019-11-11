@@ -1,0 +1,10 @@
+C:\Users\hp\source\repo\Library\LibraryData\bin\Debug\netcoreapp3.0\LibraryData.deps.json
+C:\Users\hp\source\repo\Library\LibraryData\bin\Debug\netcoreapp3.0\LibraryData.dll
+C:\Users\hp\source\repo\Library\LibraryData\obj\Debug\netcoreapp3.0\LibraryData.csprojAssemblyReference.cache
+C:\Users\hp\source\repo\Library\LibraryData\obj\Debug\netcoreapp3.0\LibraryData.AssemblyInfoInputs.cache
+C:\Users\hp\source\repo\Library\LibraryData\obj\Debug\netcoreapp3.0\LibraryData.AssemblyInfo.cs
+C:\Users\hp\source\repo\Library\LibraryData\bin\Debug\netcoreapp3.0\LibraryData.runtimeconfig.json
+C:\Users\hp\source\repo\Library\LibraryData\bin\Debug\netcoreapp3.0\LibraryData.runtimeconfig.dev.json
+C:\Users\hp\source\repo\Library\LibraryData\bin\Debug\netcoreapp3.0\LibraryData.pdb
+C:\Users\hp\source\repo\Library\LibraryData\obj\Debug\netcoreapp3.0\LibraryData.dll
+C:\Users\hp\source\repo\Library\LibraryData\obj\Debug\netcoreapp3.0\LibraryData.pdb
